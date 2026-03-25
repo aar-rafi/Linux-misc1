@@ -1,0 +1,8 @@
+# Generated walk-cycle frames — run create_assets.py to (re)generate these
+*.png
+*.webm
+*.mov
+*.mkv
+*.mp4
+# Keep this directory tracked
+!.gitkeep
